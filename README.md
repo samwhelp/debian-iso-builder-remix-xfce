@@ -9,8 +9,8 @@
 
 > [debian-iso-builder-remix-xfce](https://samwhelp.github.io/debian-iso-builder-remix-xfce/)
 
-| Link | GitHub |
-| ---- | ------ |
+| Project |
+| ------- |
 | [debian-iso-builder-template](https://github.com/samwhelp/debian-iso-builder-template) |
 | `+` |
 | [debian-iso-builder-remix-xfce](https://github.com/samwhelp/debian-iso-builder-remix-xfce) |
